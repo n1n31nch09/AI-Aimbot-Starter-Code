@@ -104,3 +104,4 @@ if __name__ == "__main__":
     for i in range(3, 0, -1):
         prYellow(f"Bot will close in {i} seconds")
         time.sleep(1)
+        
